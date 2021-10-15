@@ -222,6 +222,7 @@ width: 100%;
     float: left;
     overflow: hidden;
     margin: 0% 2.4% 7%;
+    padding: 15px 0px;
 }
 .single-client img {
     width: 35%;
